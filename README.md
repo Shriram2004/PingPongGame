@@ -34,6 +34,11 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  After completing, to move the ball, in the ball inspector give the value for speed
  
  ## Program:
+  Developed By: Shriram R
+
+ Reg No: 212221240053
+
+
  ### Game Manager.cs:
  ```python
  using System.Collections;
@@ -128,9 +133,6 @@ public class Paddle : MonoBehaviour
 
  ### Ball.cs:
 
- Developed By: Shriram R
-
- Reg No: 212221240053
 
  ``` python
  using System.Collections;
